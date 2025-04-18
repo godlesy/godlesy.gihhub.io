@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee Spice&display=swap');
+
+
+body {
+    font-family: Bungee Spice, serif;
+    background: linear-gradient(90deg, #a7a66f 65%, #8a6666 100%, #ffffff 100%);
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: aquamarine;
+}
+
+
+.navbar-dark .navbar-nav .nav-link.active {
+    color: rgb(189, 120, 120);
+}
+
+.navbar-brand img {
+    width: 70px;
+}
+
+
+.navbar-toggler {
+    background-color: rgba(156, 151, 151, 0.041);
+}
+
+
+.sidebar {
+    color: aquamarine;
+    background: linear-gradient(270deg, #5d5fc4 65%, #8b7373 100%, #ffffff 100%);
+    
+}
+
+.card {
+    background-color: rgba(156, 151, 151, 0.041);
+    color: aquamarine;
+}
+
+
+.card a {
+    text-decoration: none;
+    color: aquamarine;
+}
+
+.carousel-item {
+    width: 1000px;
+    margin: auto auto;
+}
